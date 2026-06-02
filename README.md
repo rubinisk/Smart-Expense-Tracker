@@ -89,5 +89,5 @@ The app uses a SQLite table named `expenses` with the following columns:
 
 ## Author
 
-Built by Rubin as a personal Smart Expense Manager project.
+Built by Rubini as a personal Smart Expense Manager project.
 
