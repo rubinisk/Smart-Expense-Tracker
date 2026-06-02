@@ -44,7 +44,7 @@ git clone https://github.com/rubinisk/Smart-Expense-Tracker.git
 2. Navigate into the project folder:
 
 ```bash
-cd Smart-Expense-Tracker
+cd smartexpensemanager
 ```
 
 3. Install dependencies:
